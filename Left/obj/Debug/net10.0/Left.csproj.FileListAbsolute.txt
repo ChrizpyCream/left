@@ -1,0 +1,14 @@
+C:\Users\xxlaz\OS\left\Left\bin\Debug\net10.0\Left.exe
+C:\Users\xxlaz\OS\left\Left\bin\Debug\net10.0\Left.deps.json
+C:\Users\xxlaz\OS\left\Left\bin\Debug\net10.0\Left.runtimeconfig.json
+C:\Users\xxlaz\OS\left\Left\bin\Debug\net10.0\Left.dll
+C:\Users\xxlaz\OS\left\Left\bin\Debug\net10.0\Left.pdb
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.AssemblyInfoInputs.cache
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.AssemblyInfo.cs
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.csproj.CoreCompileInputs.cache
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.dll
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\refint\Left.dll
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.pdb
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\Left.genruntimeconfig.cache
+C:\Users\xxlaz\OS\left\Left\obj\Debug\net10.0\ref\Left.dll
